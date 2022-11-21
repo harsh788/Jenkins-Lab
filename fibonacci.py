@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 def fib(x):
     if(x==0):
         return 0
